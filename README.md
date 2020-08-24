@@ -1,2 +1,4 @@
 # gitItDone
-Practicing
+Practicing <- Old
+
+Updating README in browser 
